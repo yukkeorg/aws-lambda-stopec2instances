@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "stopallec2instance"
+name = "stopec2instance"
 version = "0.1.0"
 description = ""
 authors = ["Ohshima Yusuke <ohshima.yusuke@yukke.org>"]
